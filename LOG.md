@@ -6,4 +6,4 @@
 ## 2nd May 2024
 - Got selection mail from GSoC regarding participation 🥳.
 - Set up Payoneer account.
-- Indunction meet with @garg3133.
+- Induction meet with @garg3133.
