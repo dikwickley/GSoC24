@@ -12,7 +12,7 @@ This repository serves as a log for my GSoC project with Nightwatch.
 
 ```
 .
-├── LOG.md          # Contain daily worklog.
+├── LOG.md          # Contains daily worklog.
 ├── README.md       # Main page.
 ├── TIMELINE.md     # Contains project timeline.
 └── notes.md        # notes.
