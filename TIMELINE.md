@@ -22,6 +22,7 @@ Detailed timeline of project
 `19/05/24` - `25/05/24`
 
 - Update existing examples to use new Element API.
+- Resolve comments and merge existing PRs submitted by me related to V3 Element API.
 
 `26/05/24` - `01/06/24`
 
@@ -46,7 +47,33 @@ Detailed timeline of project
 `07/07/24` - `10/07/24`
 
 - Buffer time and preparations for first code review.
+- (maybe) Write blog regarding how the project is going
+
+
+## Coding Phase 2 - [July 12 to August 29]
+
+`14/07/24` - `20/07/24`
+
+- Adding new examples
+
+`21/07/24` - `03/08/24` (two weeks)
+
+- Setup regression test suite for V3 Element API
+- Add extensive testcaes ensuring robustness.
+
+`04/08/24` - `10/08/24`
+
+- Work on the **Get the most out of V3 Element API**.
+- Migration Docs for migrating from global element API to new Element API.
+
+`11/08/24` - `18/08/24`
+
+- Write blog regarding coding phase 2.
+- Buffer Time.
+
+`19/08/24` - `26/08/24` (final week)
+
+- Finishing up and Preparing for Final Submission.
 
 
 
-## Coding Phase 2 - [July 15 to August 26]
