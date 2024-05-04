@@ -1,6 +1,12 @@
 # GSoC24
 This repository serves as a log for my GSoC project with Nightwatch.
 
+**Org**: [Nightwatch](https://github.com/nightwatchjs/nightwatch)
+
+**Mentors**: priyansh3133, Ravi Sawlani & Puja Jagani
+
+**Project Page**: [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2024/projects/nL1y3FiX)
+
 
 ## Project: Improve Nightwatch v3 Element API
 
