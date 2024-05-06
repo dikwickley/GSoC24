@@ -11,8 +11,9 @@ Detailed timeline of project
 
 `05/05/24` - `11/05/24`
 
+- [ ] Create rough draft for Element V3 API docs.
 - [ ] Create an extensive list of all examples to be added to Nightwatch
-- [ ] Discuss and create an outline for the Migration Docs.
+
 
 `12/05/24` - `18/05/24`
 
@@ -23,6 +24,7 @@ Detailed timeline of project
 
 - [ ] Update existing examples to use new Element API.
 - [ ] Resolve comments and merge existing PRs submitted by me related to V3 Element API.
+- [ ] Discuss and create an outline for the Migration Docs.
 
 `26/05/24` - `01/06/24`
 
