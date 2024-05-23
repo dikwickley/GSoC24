@@ -11,7 +11,7 @@ Detailed timeline of project
 
 `05/05/24` - `11/05/24`
 
-- [ ] Create rough draft for Element V3 API docs.
+- [x] Create rough draft for Element V3 API docs.
 - [ ] Create an extensive list of all examples to be added to Nightwatch
 
 
